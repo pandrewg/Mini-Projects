@@ -1,2 +1,2 @@
 
-Springboard mini-projects
+Springboard mini projects
